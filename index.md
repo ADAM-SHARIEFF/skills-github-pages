@@ -3,8 +3,6 @@ layout: home
 title: Top Co-op Games to Play with Friends
 ---
 
-# Top Co-op Games to Play with Friends
-
 Discover the best co-op games to enjoy with your friends!
 
 ## A Way Out
